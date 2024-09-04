@@ -1,2 +1,1 @@
-# -APP---TransConnect
-I developed a comprehensive C# application to manage company stakeholders.
+During my first year of engineering studies at ESILV, I developed a comprehensive C# application to manage company stakeholders. The application includes features for employee, client, and order management, allowing for the addition, deletion, modification, and display of the organizational chart. Additionally, the order management module features route simulation in France using Dijkstra's algorithm. The application is secured with authentication and boasts a fully plugin-free interface.
